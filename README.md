@@ -25,7 +25,7 @@ Projeto simples desenvolvido em PHP para realizar o cadastro de alunos junto com
 ## 📂 Estrutura do projeto
 
 ```
-cadastro-aluno/
+cadastro-php-com-endereco
 │── index.php        # Formulário de cadastro
 │── processa.php     # Processamento dos dados
 ```
